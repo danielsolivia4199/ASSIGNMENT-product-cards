@@ -1,1 +1,39 @@
+.card {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-content: flex-start;
+}
+.card-body {
+  border: 1px solid lightblue;
+  background-color: lightblue;
+  text-align: center;
 
+}
+.card-title {
+  text-align: center;
+  background-color: lightblue;
+  border: 5px solid lightblue;
+  border-radius: 5px; 
+  margin-bottom: -5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img {
+  
+}
+.card-link {
+  -webkit-text-fill-color: green;
+}
+.na {
+  -webkit-text-fill-color: red;
+  text-align: center;
+}
+.list-group-item {
+  background-color: lightgrey;
+  border: 1px solid darkgrey;
+  -webkit-text-fill-color: darkblue;
+}
+.card-link2{
+  margin-top: 10px;
+}
